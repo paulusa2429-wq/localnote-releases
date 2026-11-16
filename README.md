@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="120" height="120" alt="LocalNote logo">
+</p>
+
 # LocalNote — Release Downloads
 
 This repository hosts **installer downloads for LocalNote** — binaries only. There is no source code here; LocalNote's source lives in a private repository.
